@@ -1,4 +1,6 @@
 
+# 腾讯云实时互动-教育版 Flutter Demo
+
 通过本篇文档，您将快速跑通一个集成了 LCIC 功能的 Flutter 项目。
 
 ## 环境要求
@@ -89,11 +91,9 @@ Xcode 14
 
 ### 步骤四：下载 Demo
 
+克隆本仓库, 即包含了完整的 Demo 源码.
 
-
-[**点此下载 Demo 源码**](https://github.com/RoleWong/lcic_flutter_demo)
-
-> 如果您想要在旧项目中集成 LCIC 的功能，可参考 [**这篇文档**](https://git.woa.com/29294-22989-29805-29810/lcic_flutter_demo/blob/master/integrate%20to%20exsiting%20project.md), 对照阅读使用。
+> 如果您想要在旧项目中集成 LCIC 的功能，可参考 [**这篇文档**](https://github.com/RoleWong/lcic_flutter_demo/blob/main/integrate%20to%20exsiting%20project.md), 对照阅读使用。
 >
 
 
