@@ -1,0 +1,42 @@
+PODS:
+  - Bugly (2.6.1)
+  - Flutter (1.0.0)
+  - Masonry (1.1.0)
+  - TCICSDK_Pro (1.8.5.6):
+    - Bugly
+    - Masonry
+    - TXLiteAVSDK_Professional
+    - YYModel
+  - TXLiteAVSDK_Professional (12.1.16597):
+    - TXLiteAVSDK_Professional/Professional (= 12.1.16597)
+  - TXLiteAVSDK_Professional/Professional (12.1.16597)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - TCICSDK_Pro (= 1.8.5.6)
+  - TXLiteAVSDK_Professional (= 12.1.16597)
+
+SPEC REPOS:
+  trunk:
+    - Bugly
+    - Masonry
+    - TCICSDK_Pro
+    - TXLiteAVSDK_Professional
+    - YYModel
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  Bugly: 217ac2ce5f0f2626d43dbaa4f70764c953a26a31
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  TCICSDK_Pro: 53853e2686c3d1dc19c762837783b0b66379cbfb
+  TXLiteAVSDK_Professional: adafd7d52404aa6ee15d062351dcd4086f359de0
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: de547012f41c2390cc8ad4c4e43e9177650798b9
+
+COCOAPODS: 1.15.2
